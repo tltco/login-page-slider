@@ -1,5 +1,5 @@
 # Login Page with Background Image Slider
-![preview](./.github/preview.png)
+![preview](./preview.png)
 
 >Login Form with Automatic Slider in the Background
 - Responsive webpage
