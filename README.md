@@ -8,7 +8,7 @@
 
 Developt by Talita Costa
 
-[Link](https://tltco.github.io/login-page-slider/) 
+[Check out here.](https://tltco.github.io/login-page-slider/) 
 
 ## ⚒️ Tools
 - HTML
